@@ -8,3 +8,4 @@ Construindo um Sensor de Luz com Arduino tendo a finalidade de acionar um LED, o
 ## Codigo
 ![image](https://user-images.githubusercontent.com/105546921/200697176-a5118cf9-3f84-4fc2-822d-c1bd649a5062.png)
 
+
